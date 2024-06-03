@@ -93,7 +93,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 <br>
 
-## 2. argo-rollouts 설치
+## 2. argo-rollouts 설치 (제거)
 
 ### 2-1. argo-rollouts 설치를 위한 네임스페이스 생성
 
